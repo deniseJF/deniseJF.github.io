@@ -60,6 +60,10 @@ article {
   .changeLanguage{
     display:none;
   }
+
+  @page { 
+    margin: 0 !important;
+  }
 }
 
 .changeLanguage{
